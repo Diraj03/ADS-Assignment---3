@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 import scipy.optimize as opt
 from sklearn import cluster
-import seaborn as sns
 import sklearn.metrics as skmet
 
 # Read the CSV file into a DataFrame
